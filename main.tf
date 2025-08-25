@@ -12,3 +12,5 @@ resource "azurerm_resource_group" "a3" {
   name = "jai_rg"
   location = "eastus"
 }
+
+#extra line
